@@ -1,0 +1,608 @@
+2025-11-24 15:38:25 [main] INFO  org.example.Sample$ - table is created
+2025-11-25 12:01:19 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 12:01:19 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 12:01:19 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 12:06:28 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 12:06:28 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 12:33:13 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 12:33:13 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 12:33:13 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 12:36:31 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 12:36:31 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 12:39:14 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 12:39:14 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:18:34 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:18:34 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:19:13 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:19:13 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:20:57 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:20:57 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:24:55 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:24:55 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:27:05 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:27:05 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:27:05 [main] INFO  MVC.Main.TradeController$ - trade execution happen succesfully
+2025-11-25 14:28:49 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:28:49 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:28:50 [main] INFO  MVC.Main.TradeController$ - trade execution happen succesfully
+2025-11-25 14:31:58 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:31:58 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:31:58 [main] INFO  MVC.Main.TradeController$ - trade execution happen succesfully
+2025-11-25 14:48:30 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:48:30 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:48:30 [main] INFO  MVC.Main.TradeController$ - trade execution happen succesfully
+2025-11-25 14:50:39 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 14:50:39 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:00:19 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:00:19 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:00:19 [main] INFO  MVC.Main.TradeController$ - trade execution happen succesfully
+2025-11-25 15:05:02 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:05:02 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:05:02 [main] INFO  MVC.Main.TradeController$ - trade execution happen succesfully
+2025-11-25 15:06:40 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:06:40 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:06:40 [main] INFO  MVC.Main.TradeController$ - trade execution happen succesfully
+2025-11-25 15:07:55 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:07:55 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-25 15:07:56 [main] INFO  MVC.Main.TradeController$ - trade execution happen succesfully
+2025-11-25 22:53:00 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:06:11 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:09:20 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: List((), (), (), (), (), (), (), (), (), ())
+2025-11-25 23:13:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:13:27 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-25 23:16:15 [main] INFO  MVC.Main.TradeController$ - no of trades ()
+2025-11-25 23:37:50 [main] INFO  MVC.Main.TradeController$ - Total trades executed = List((), (), (), (), ())
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:40:57 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-25 23:40:57 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:04 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-25 23:43:04 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-25 23:43:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-25 23:43:44 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-25 23:43:44 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 09:52:41 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-26 09:52:41 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 10:29:08 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-26 10:29:08 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:14:47 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-26 11:14:47 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 11:17:38 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-26 11:17:38 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:35 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-26 16:48:35 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 16:48:55 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-26 16:48:55 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:15 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-26 17:45:16 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 17:45:55 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-26 17:45:55 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-26 23:49:09 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-26 23:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:11 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-26 23:53:11 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-26 23:53:12 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 00:02:48 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:02:48 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 00:05:41 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:05:41 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 00:27:18 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 00:27:18 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 09:28:45 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 09:28:45 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 09:28:45 [main] INFO  MVC.Main.TradeController$ - Total trades executed = 5
+2025-11-27 10:13:48 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:13:48 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 10:13:48 [main] INFO  MVC.Main.TradeController$ - result trade ()
+2025-11-27 10:26:46 [main] INFO  MVC.Main.TradeController$ - result trade ()
+2025-11-27 10:26:46 [main] INFO  MVC.Main.TradeController$ - result trade ()
+2025-11-27 10:37:08 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:37:09 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 10:37:09 [main] INFO  MVC.Main.TradeController$ - result trade ()
+2025-11-27 10:37:09 [main] INFO  MVC.Main.TradeController$ - result trade ()
+2025-11-27 10:49:09 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 10:49:09 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 10:49:09 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-27 10:49:09 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-27 11:04:55 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 11:04:55 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 11:05:58 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-27 11:05:58 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-27 13:01:53 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-27 13:01:53 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-27 13:01:53 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-27 13:01:53 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-27 13:01:54 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-27 13:01:54 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-27 13:01:54 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-27 13:01:54 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-28 10:49:39 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 10:49:39 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 10:49:39 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 10:49:39 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 10:49:39 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:49:39 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-28 10:49:39 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-28 10:49:39 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-28 10:53:22 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 10:53:22 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 10:53:22 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 10:53:22 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 10:53:22 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 10:53:22 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-28 10:53:22 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-28 10:53:22 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-28 11:02:36 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:02:36 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:02:36 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:02:36 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:02:36 [main] ERROR MVC.Repository.ProductRepo - Error inserting product Products(1,Laptop,15000)
+com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__Products__2D10D16ABEA42ED3'. Cannot insert duplicate key in object 'dbo.Products'. The duplicate key value is (1).
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:265)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1676)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:620)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:540)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:7620)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:3916)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:268)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:242)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeUpdate(SQLServerPreparedStatement.java:486)
+	at MVC.Repository.ProductRepo.insertProducts(ProductRepo.scala:17)
+	at MVC.Service.MatchingOrder.placeProduct(MatchingOrder.scala:14)
+	at MVC.Main.TradeController$.$anonfun$main$1(TradeController.scala:19)
+	at MVC.Main.TradeController$.$anonfun$main$1$adapted(TradeController.scala:19)
+	at scala.collection.immutable.List.map(List.scala:247)
+	at MVC.Main.TradeController$.main(TradeController.scala:19)
+	at MVC.Main.TradeController.main(TradeController.scala)
+2025-11-28 11:02:48 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:02:48 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:02:48 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:02:48 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:02:48 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 11:02:48 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:03:17 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:03:17 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:03:17 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:03:17 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:03:17 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-28 11:03:17 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-28 11:03:17 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-28 11:31:47 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:31:47 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:31:47 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:31:47 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 11:31:47 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 11:31:47 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-28 11:31:48 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-28 11:31:48 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-28 12:41:08 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:41:08 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:41:08 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:41:08 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:41:08 [main] ERROR MVC.Repository.ProductRepo - Error inserting product Products(1,Laptop,15000)
+com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__Products__2D10D16ABEA42ED3'. Cannot insert duplicate key in object 'dbo.Products'. The duplicate key value is (1).
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:265)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1676)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:620)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:540)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:7620)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:3916)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:268)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:242)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeUpdate(SQLServerPreparedStatement.java:486)
+	at MVC.Repository.ProductRepo.insertProducts(ProductRepo.scala:17)
+	at MVC.Service.MatchingOrder.placeProduct(MatchingOrder.scala:14)
+	at MVC.Main.TradeController$.$anonfun$main$1(TradeController.scala:20)
+	at MVC.Main.TradeController$.$anonfun$main$1$adapted(TradeController.scala:20)
+	at scala.collection.immutable.List.map(List.scala:247)
+	at MVC.Main.TradeController$.main(TradeController.scala:20)
+	at MVC.Main.TradeController.main(TradeController.scala)
+2025-11-28 12:41:36 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:41:36 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:41:36 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:41:36 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:41:36 [main] INFO  MVC.Main.TradeController$ - total products inserted 6
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:41:36 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-28 12:41:37 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-28 12:41:37 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-28 12:42:46 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:42:46 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:42:46 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:42:46 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 12:42:46 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 12:42:47 [main] ERROR MVC.Repository.OrderRepo - Error insert Orders Orders(111,9,SELL,60,0,OPEN)
+java.lang.RuntimeException: Product not found
+	at MVC.Repository.ProductRepo.findPrice(ProductRepo.scala:33)
+	at MVC.Repository.OrderRepo.insertOrders(OrderRepo.scala:17)
+	at MVC.Service.MatchingOrder.placeOrder(MatchingOrder.scala:11)
+	at MVC.Main.TradeController$.$anonfun$main$2(TradeController.scala:34)
+	at MVC.Main.TradeController$.$anonfun$main$2$adapted(TradeController.scala:34)
+	at scala.collection.immutable.List.map(List.scala:251)
+	at MVC.Main.TradeController$.main(TradeController.scala:34)
+	at MVC.Main.TradeController.main(TradeController.scala)
+2025-11-28 14:51:44 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 14:51:44 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 14:51:44 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 14:51:44 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 14:51:44 [main] ERROR MVC.Repository.ProductRepo - Error inserting product Products(1,Laptop,15000)
+com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__Products__2D10D16ABEA42ED3'. Cannot insert duplicate key in object 'dbo.Products'. The duplicate key value is (1).
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:265)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1676)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:620)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:540)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:7620)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:3916)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:268)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:242)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeUpdate(SQLServerPreparedStatement.java:486)
+	at MVC.Repository.ProductRepo.insertProducts(ProductRepo.scala:17)
+	at MVC.Service.MatchingOrder.placeProduct(MatchingOrder.scala:14)
+	at MVC.Main.TradeController$.$anonfun$main$1(TradeController.scala:19)
+	at MVC.Main.TradeController$.$anonfun$main$1$adapted(TradeController.scala:19)
+	at scala.collection.immutable.List.map(List.scala:247)
+	at MVC.Main.TradeController$.main(TradeController.scala:19)
+	at MVC.Main.TradeController.main(TradeController.scala)
+2025-11-28 14:51:56 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 14:51:56 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 14:51:56 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 14:51:56 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 14:51:56 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 14:51:56 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-28 14:51:56 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-28 14:51:56 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-28 17:01:15 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:01:15 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:01:15 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:01:15 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:01:15 [main] ERROR MVC.Repository.ProductRepo - Error inserting product Products(1,Laptop,15000)
+com.microsoft.sqlserver.jdbc.SQLServerException: Violation of PRIMARY KEY constraint 'PK__Products__2D10D16ABEA42ED3'. Cannot insert duplicate key in object 'dbo.Products'. The duplicate key value is (1).
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDatabaseError(SQLServerException.java:265)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.getNextResult(SQLServerStatement.java:1676)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:620)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:540)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:7620)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:3916)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:268)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:242)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeUpdate(SQLServerPreparedStatement.java:486)
+	at MVC.Repository.ProductRepo.insertProducts(ProductRepo.scala:17)
+	at MVC.Service.MatchingOrder.placeProduct(MatchingOrder.scala:14)
+	at MVC.Main.TradeController$.$anonfun$main$1(TradeController.scala:19)
+	at MVC.Main.TradeController$.$anonfun$main$1$adapted(TradeController.scala:19)
+	at scala.collection.immutable.List.map(List.scala:247)
+	at MVC.Main.TradeController$.main(TradeController.scala:19)
+	at MVC.Main.TradeController.main(TradeController.scala)
+2025-11-28 17:04:02 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:04:02 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:04:02 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:04:02 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:04:02 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:04:02 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-28 17:04:02 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-28 17:04:02 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
+2025-11-28 17:26:35 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:26:35 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:26:35 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:26:35 [main] INFO  MVC.Config.DBConnection - connection established
+2025-11-28 17:26:35 [main] INFO  MVC.Main.TradeController$ - total products inserted 5
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Repository.OrderRepo - table is inserted
+2025-11-28 17:26:35 [main] INFO  MVC.Main.TradeController$ - Total rows inserted: 10
+2025-11-28 17:26:35 [main] INFO  MVC.Main.TradeController$ - result trade1 ()
+2025-11-28 17:26:35 [main] INFO  MVC.Main.TradeController$ - result trade2 ()
